@@ -1,0 +1,17 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Yuvaleros",
+      "authorEmail": "yhalfon@gmail.com",
+      "authorUrl": ""
+    }
+  },
+  "generator-min-seneca": {
+    "promptValues": {
+      "name": "example",
+      "serviceName": "harvester",
+      "listenPort": "2000",
+      "clientPort": "2001"
+    }
+  }
+}
