@@ -25,7 +25,7 @@ yo min-seneca
 
 ## License
 
-Apache-2.0 © [Yuvaleros]()
+MIT © [Yuvaleros]()
 
 
 [npm-image]: https://badge.fury.io/js/generator-min-seneca.svg

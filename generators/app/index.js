@@ -20,7 +20,7 @@ module.exports = class extends Generator {
       {
         type: 'input',
         name: 'clientPort',
-        message: 'What port are you is the client on?',
+        message: 'What port is the client using?',
         default: this.appname, // Default to current folder name
         store: true
       }

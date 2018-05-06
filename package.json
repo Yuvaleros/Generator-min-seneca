@@ -23,18 +23,14 @@
     "husky": "^0.14.3",
     "jest": "^22.0.6",
     "lint-staged": "^4.2.1",
-    "mocha": "^5.0.0",
+    "mocha": "^5.1.1",
     "nsp": "^2.6.3",
     "prettier": "^1.7.0",
     "yeoman-assert": "^3.1.0",
     "yeoman-test": "^1.7.0"
   },
   "dependencies": {
-    "app-config": "^1.0.0",
     "chalk": "^2.1.0",
-    "seneca": "^3.4.3",
-    "seneca-basic": "^0.5.1",
-    "seneca-entity": "^2.0.2",
     "yeoman-generator": "^2.0.1",
     "yosay": "^2.0.1"
   },
